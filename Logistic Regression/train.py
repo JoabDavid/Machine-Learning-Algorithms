@@ -20,4 +20,4 @@ def accuracy(y_pred, y_test):
 
 
 acc = accuracy(y_pred, y_test)
-print(acc, end="\n\n")
+print(acc)
