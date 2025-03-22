@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# workspace files
+
+Linear regression/*.code-workspace
+Logistic regression/*.code-workspace
+
+# Ignore Python cache files
+__pycache__/
